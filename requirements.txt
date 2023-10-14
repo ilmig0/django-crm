@@ -10,6 +10,8 @@ django==4.1.12
     # via
     #   -r requirements.in
     #   djangorestframework
+django-behaviors==0.5.1
+    # via -r requirements.in
 django-environ==0.11.2
     # via -r requirements.in
 djangorestframework==3.14.0
