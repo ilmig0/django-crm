@@ -27,6 +27,7 @@ ALLOWED_HOSTS = ['*']
 
 INSTALLED_APPS = [
     "products",
+    "rest_framework",
     "behaviors.apps.BehaviorsConfig",
     "django.contrib.admin",
     "django.contrib.auth",
