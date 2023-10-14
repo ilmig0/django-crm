@@ -1,6 +1,8 @@
 flake8
 flake8-walrus
 flake8-isort
+flake8-pyproject
 
 pytest
 pytest-django
+mixer
